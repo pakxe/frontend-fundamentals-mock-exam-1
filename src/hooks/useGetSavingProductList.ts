@@ -1,5 +1,5 @@
+import { SavingProduct } from 'types/savingProduct';
 import useGetCall from './useGetCall';
-import { SavingProduct } from 'apis/savings';
 import useSavingProductFilter from './useSavingProductFilter';
 import { useMemo } from 'react';
 
